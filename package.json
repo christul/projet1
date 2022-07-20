@@ -1,0 +1,15 @@
+{
+  "name": "exemple2",
+  "version": "1.0.0",
+  "description": "webinar Dclick",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "D-Click",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
